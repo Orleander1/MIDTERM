@@ -1,0 +1,55 @@
+body{
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    font: 16px Arial, sans-serif;
+}   
+.structural{
+    margin: 10px;
+    padding: 10px;
+}
+h1,h2{
+    color: black;
+    font-size: larger;
+}
+main{
+    height: 70vh;
+}
+.mainimg{
+    height: 80%;
+    width: 90%;
+    border: 2px solid, black;
+}
+
+
+figure{
+    width: 45%;
+    height: 60%;
+    background-color: burlywood;
+    margin: auto;
+    padding: 10px;
+    float:left
+}
+section{
+    border: 2px solid, black;
+    font-weight: 200;
+    font-size: medium;
+    color: beige;
+    clear:both
+}
+ul > li > a{
+    color: rgb(25, 0, 255);
+}
+section a:hover{
+    color: coral;
+}
+li{
+    line-height: 170%;
+}
+header,footer{
+    background-color: bisque;
+}
+
+
+
+
